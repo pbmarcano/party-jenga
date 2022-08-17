@@ -5,15 +5,15 @@ function App() {
   const rules = [
     {
       name: "Give 1",
-      description: "Give out a drink to someone."
+      description: "Make someone drink."
     },
     {
       name: "Give 2",
-      description: "Give out two drinks"
+      description: "Give two drinks"
     },
     {
       name: "Give 3",
-      description: "Give out three drinks to whomever you choose"
+      description: "Give three drinks to whomever you choose"
     },
     {
       name: "Take 1",
@@ -37,7 +37,7 @@ function App() {
     },
     {
       name: "Beep Beep I'm a Jeep",
-      description: "Every time you need to walk away from the game you must get on all fours and say \"beep beep, I'm a Jeep\""
+      description: "Every time you walk away from the game you must get on all fours and say \"beep beep, I'm a Jeep\". Drink if you forget."
     }
   ];
 
@@ -59,11 +59,11 @@ function App() {
       </header>
       <main className="text-white text-center grow flex flex-col">
         <h2 className="text-4xl mt-36">{rule.name}</h2>
-        <p className="text-lg mt-24">
+        <p className="text-lg mt-24 w-3/4 mx-auto">
           {rule.description}
         </p>
         <div className="mb-12 absolute inset-x-0 bottom-0 h-16">
-          <button onClick={() => next()} className="bg-amber-300 text-emerald-900 w-3/4 py-6">
+          <button onClick={() => next()} className="bg-amber-300 text-xl font-extrabold text-emerald-900 w-3/4 py-6">
             Next Rule
           </button>
         </div>
