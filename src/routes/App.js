@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { Header } from "../components/Header.js";
 import tipsyRules from "../rules/tipsy.json";
+import { Wrapper } from "../components/Wrapper";
 
 export function App() {
   const [rule, setRule] = useState(randomRule());
@@ -15,8 +15,7 @@ export function App() {
   }
 
   return (
-    <div className="container mx-auto flex flex-col bg-emerald-800 min-h-screen">
-      <Header />
+    <Wrapper>
       <main className="text-white text-center grow flex flex-col">
         <h2 className="text-4xl mt-36">{rule.name}</h2>
         <p className="text-lg mt-24 w-3/4 mx-auto">
@@ -28,6 +27,6 @@ export function App() {
           </button>
         </div>
       </main>
-    </div>
+    </Wrapper>
   );
 }

@@ -1,9 +1,8 @@
-import { Header } from "../components/Header.js";
+import { Wrapper } from "../components/Wrapper";
 
 export function About() {
   return (
-    <div>
-      <Header />
+    <Wrapper>
       <div className="container prose prose-sm prose-h1:text-amber-400 text-amber-300">
         <p>Drunk Jenga is fun.</p> 
 
@@ -21,7 +20,7 @@ export function About() {
 
         <p>P.S. If you enjoy this game and want to say thanks, you can buy me a beer.</p>
       </div>
-    </div>
+    </Wrapper>
   )
 }
 
