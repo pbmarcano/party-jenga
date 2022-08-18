@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Give 1",
+    "description": "Make someone drink."
+  },
+  {
+    "name": "Give 2",
+    "description": "Give two drinks"
+  },
+  {
+    "name": "Give 3",
+    "description": "Give three drinks to whomever you choose"
+  },
+  {
+    "name": "Take 1",
+    "description": "Drink. Take one for the team."
+  },
+  {
+    "name": "Take 2",
+    "description": "Drink twice. It will help speed along the game."
+  },
+  {
+    "name": "Take 3",
+    "description": "Drink three times. You've earned it."
+  },
+  {
+    "name": "Putsies Backsies",
+    "description": "Good job removing that block! Now put it back where you found it."
+  },
+  {
+    "name": "Question Master",
+    "description": "You're the Question Master! Ask any question you want. If someone answers it, they have to drink."
+  },
+  {
+    "name": "Beep Beep I'm a Jeep",
+    "description": "Every time you walk away from the game you must get on all fours and say \"beep beep, I'm a Jeep\". Drink if you forget."
+  }
+]
