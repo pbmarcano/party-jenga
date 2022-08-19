@@ -2,9 +2,11 @@ import { Header } from "../components/Header";
 
 export function Wrapper(props) {
   return ( 
-    <div className="container mx-auto flex flex-col min-h-screen">
+    <div className="container bg-emerald-800 mx-auto px-1 flex flex-col min-h-screen">
       <Header />
-      {props.children}
+      <main className="flex flex-col grow">
+        {props.children}
+      </main>
     </div>
   )
 }

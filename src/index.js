@@ -7,7 +7,7 @@ import {
 } from 'react-router-dom';
 import './index.css';
 import { App } from './routes/App';
-import { About } from './routes/About';
+// import { About } from './routes/About';
 import { Splash } from './routes/Splash';
 import reportWebVitals from './reportWebVitals';
 
@@ -17,7 +17,7 @@ root.render(
     <Routes>
       <Route path="/" element={<Splash />} />
       <Route path="/play" element={<App />} />
-      <Route path="/about" element={<About />} />
+      {/* <Route path="/about" element={<About />} /> */}
     </Routes>
   </BrowserRouter>
 );
