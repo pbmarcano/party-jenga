@@ -6,7 +6,7 @@ export function Splash() {
     <Wrapper>
       <div className="prose marker:prose-ol:text-amber-400 prose-a:text-amber-400 text-white flex grow">
         <div className="m-auto px-4">
-          <p><a href="">Drunk Jenga</a> is fun.</p> 
+          <p><a href="https://justbeerapp.com/article/drunk-jenga-drinking-game-what-is-it-and-what-are-the-rules">Drunk Jenga</a> is fun.</p> 
           <p>But writing drinking rules on the family Janga set is trashy.</p>
           <p>Thus, Party Jenga.</p>
           <ol>
