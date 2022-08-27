@@ -1,7 +1,7 @@
 [
   {
     "name": "Give 1",
-    "description": "Make someone drink."
+    "description": "Make someone drink"
   },
   {
     "name": "Give 2",
@@ -9,30 +9,98 @@
   },
   {
     "name": "Give 3",
-    "description": "Give three drinks to whomever you choose"
+    "description": "Give three drinks"
   },
   {
     "name": "Take 1",
-    "description": "Drink. Take one for the team."
+    "description": "Drink - Take one for the team"
   },
   {
     "name": "Take 2",
-    "description": "Drink twice. It will help speed along the game."
+    "description": "Drink twice - It will help speed along the game"
   },
   {
     "name": "Take 3",
-    "description": "Drink three times. You've earned it."
+    "description": "Drink three times - you've earned it"
   },
   {
-    "name": "Putsies Backsies",
-    "description": "Good job removing that block! Now put it back where you found it."
+    "name": "Putsie Backsie",
+    "description": "Put that block back where you found it"
   },
   {
     "name": "Question Master",
-    "description": "You're the Question Master! Ask any question you want. If someone answers it, they have to drink."
+    "description": "Ask any question you want - if someone answers it, they have to drink."
   },
   {
     "name": "Beep Beep I'm a Jeep",
-    "description": "Every time you walk away from the game you must get on all fours and say \"beep beep, I'm a Jeep\". Drink if you forget."
+    "description": "To step away from the game, get on all fours and say \"beep beep, I'm a Jeep\". Drink if you forget."
+  },
+  {
+    "name": "Was it worth it?",
+    "description": "Drink for every year spent in college"
+  },
+  {
+    "name": "Toast",
+    "description": "Make it good - everyone drinks"
+  },
+  {
+    "name": "Karma",
+    "description": "Give two drinks to whoever came after you last"
+  },
+  {
+    "name": "Waterfall",
+    "description": "Start the chug"
+  },
+  {
+    "name": "Trivia",
+    "description": "Ask someone a trivia question - if they're wrong, they drink"
+  },
+  {
+    "name": "Was it worth it?",
+    "description": "Drink for every year spent in college"
+  },
+  {
+    "name": "Karaoke",
+    "description": "Sing a song for the group or chug a full drink"
+  },
+  {
+    "name": "Old man",
+    "description": "Oldest person drinks"
+  },
+  {
+    "name": "Stretch",
+    "description": "Tallest person drinks"
+  },
+  {
+    "name": "The Real Slim Shady",
+    "description": "You must play the rest of the game standing up"
+  },
+  {
+    "name": "Karaoke",
+    "description": "Sing a song for the group or chug a full drink"
+  },
+  {
+    "name": "Foreigner",
+    "description": "Speak with an accent for the rest of the game - If you forget, drink"
+  },
+  {
+    "name": "Lefty",
+    "description": "Remove the next block with your non dominant hand"
+  },
+  {
+    "name": "Categories",
+    "description": "Choose a category. Everyone must name something in it. If you repeat or get stuck, you drink."
+  },
+  {
+    "name": "For the boys",
+    "description": "All men drink"
+  },
+  {
+    "name": "Ladies night",
+    "description": "All women drink"
+  },
+  {
+    "name": "King for a game.",
+    "description": "Make up a new rule. Anything goes."
   }
 ]
