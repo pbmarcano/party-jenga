@@ -57,7 +57,7 @@ export function App() {
       <div className="mb-24 text-center">
         <button 
           onClick={() => next()} 
-          className="bg-amber-300 rounded shadow-md shadow-emerald-900 text-xl font-extrabold text-emerald-800 w-3/4 py-6">
+          className="bg-amber-300 rounded shadow-md shadow-emerald-900 text-xl font-extrabold text-emerald-800 w-3/4 py-6 active:translate-y-1">
           Next Rule
         </button>
       </div>
